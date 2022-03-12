@@ -19,6 +19,7 @@ class Main extends StatelessWidget {
 }
 
 /**MaterialApp(
+    return MaterialApp(
       title: "Bong Jeba",
       
       theme: ThemeData(
