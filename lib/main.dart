@@ -1,5 +1,4 @@
 import 'package:bongjeba/main_page.dart';
-import 'package:bongjeba/misc/colors.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,12 +16,3 @@ class Main extends StatelessWidget {
     );
   }
 }
-
-/**MaterialApp(
-    return MaterialApp(
-      title: "Bong Jeba",
-      
-      theme: ThemeData(
-        primarySwatch: Colors.purple,
-      ),
-      home: MainPage(), */

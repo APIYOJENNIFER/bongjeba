@@ -1,5 +1,4 @@
 import 'package:bongjeba/misc/colors.dart';
-import 'package:bongjeba/widgets/app_text.dart';
 import 'package:flutter/material.dart';
 
 import 'navpages/home_page.dart';
